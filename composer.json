@@ -1,0 +1,8 @@
+{
+  "name": "dol-lab/shibboleth",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "php": ">=7.1"
+  }
+}
